@@ -8,7 +8,7 @@ I am a  Master of Applied Science graduate from the University of Toronto, super
 
 More broadly, I am interested in data fusion and distributed systems applied to critical problems such as monitoring climate change, optimizing infrastructure in cities, and diagnosing disease. 
 
-I previously received my Bachlelor of Applied Science in Engineering Science at the University of Toronto, with a major in Robotics Engineering and a minor in Artificial Intelligence Engineering.
+I previously received my Bachlelor of Applied Science in Engineering Science at the University of Toronto, with a major in Robotics Engineering and a minor in Artificial Intelligence Engineering. 
 
 ## Research Interests
 
