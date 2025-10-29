@@ -105,7 +105,7 @@
 
 email {
     font-size: 14px;
-    font-family: "Ubuntu Mono";
+//     font-family: "Ubuntu Mono";
 }
 
 .icon-button i{
@@ -296,7 +296,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:1120px;
   margin:0 auto;
 }
 
@@ -356,7 +356,7 @@ img {
 }
 
 header {
-  width:232px;
+  width:220px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -428,11 +428,10 @@ header ul li + li + li {
 header ul a strong {
   font-size:14px;
   display:block;
-  color:#222;
 }
 
 section {
-  width:650px;
+  width:800px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;

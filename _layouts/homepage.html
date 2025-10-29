@@ -53,6 +53,10 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
+        {% if site.dep %}
+        <autocolor style="font-size: 14px;">{{ site.dep }}</autocolor>
+        <br>
+        {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
@@ -89,6 +93,12 @@
           <i class="fab fa-x-twitter"></i>
         </a>
         {% endif %}
+
+        {% if site.email_link %}
+        <a style="margin: 0 0 0 0" href="{{ site.email_link }}">
+          <i class="fa-solid fa-envelope" style="font-size:1.1rem;"></i>
+        </a>
+        {% endif %}
         </div>
         <br>
 
@@ -100,7 +110,7 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+      <p><small>© Copyright Sheral Kumar 2024. Theme courtesy of<a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener"> Yaoyao Liu</a>.</small></p>
       {% endif %}
 
       </section>

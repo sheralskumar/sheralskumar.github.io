@@ -1,0 +1,22 @@
+main:
+
+  - title: "WasteWise Toronto"
+    # authors: 
+    description: Internet-of-Things smart garbage bin network developed to reduce littering, improve maintenance, and optimize collection efficiency in Toronto, Ontario. Jan-Apr 2024.
+    type: Course Project
+    github: https://github.com/sheralskumar/WasteWise-IoT
+    image: ./assets/img/WasteWise.png
+
+  - title: "Autonomous Inspection Drone"
+    # authors: 
+    description: Autonomous drone capable of performing mapping, localization, waypoint navigation, object detection, and collision avoidance utilizing onboard sensing and computing. Jan-Apr 2023.
+    type: Capstone
+    github: https://github.com/JuliaChae/rob498_drone_src
+    image: ./assets/img/autonomous-drone.png
+
+  - title: "CancerAI: Cancer cell neural network classification tool"
+    # authors: 
+    description: "ML pipeline which differentiates between 5 classes of cancer images: first between colon and lung cell images, then between malignant and benign cells within these categories, and then finally into specific types of malignant cells."
+    type: Course Project
+    github: https://github.com/sheralskumar/AICancer
+    image: ./assets/img/AIcancer.png

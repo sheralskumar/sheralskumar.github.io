@@ -1,22 +1,18 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Five-dimensional co-registered multimodal, multiscale imaging platform: reflectance, fluorescence, FLIM, and Raman"
+    authors: <strong>Sheral Kumar</strong>,  Jialiang Tan,Justin Pahara, and Harry Ruda
+    conference_short: SPIE
+    conference: SPIE Photonics West, 2026.
+    title_link: https://spie.org/photonics-west/presentation/Five-dimensional-co-registered-multimodal-multiscale-imaging-platform--reflectance/13859-9
+    page: https://spie.org/photonics-west/presentation/Five-dimensional-co-registered-multimodal-multiscale-imaging-platform--reflectance/13859-9
+    image: ./assets/img/system-diagram.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: "Methods and devices for extracting motion vector data from compressed video data - US11729395B2"
+    authors: <strong>Sheral Sweta Kumar</strong>, Amartya Mukherjee, Seel Nimeshkumar Patel, Rui Xiang Chai, Wentao Liu, Yuanhao Yu, Yang Wang, Jin Tang
+    conference_short: Patent
+    conference: United States Patent and Trademark Office, 2023.
+    title_link: https://patents.google.com/patent/US11729395B2/en
+    patent: https://patents.google.com/patent/US11729395B2/en
+    image: ./assets/img/MV-patent.png

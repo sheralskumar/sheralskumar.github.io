@@ -83,7 +83,7 @@
 
 email {
     font-size: 14px;
-    font-family: "Ubuntu Mono";
+    //font-family: "Ubuntu Mono";
 }
 
 .icon-button i{
@@ -168,8 +168,8 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
+        border-radius: 15%;
+        width: 80%;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -233,7 +233,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:1120px;
   margin:0 auto;
 }
 
@@ -283,7 +283,7 @@ img {
 }
 
 header {
-  width:232px;
+  width:220px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -353,7 +353,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:800px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
