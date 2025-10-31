@@ -8,11 +8,19 @@ main:
     page: https://spie.org/photonics-west/presentation/Five-dimensional-co-registered-multimodal-multiscale-imaging-platform--reflectance/13859-9
     image: ./assets/img/system-diagram.png
 
+  - title: "METHOD FOR HIGH-RESOLUTION MEASUREMENT OF CONCENTRATIONS OF ANGIOPOIETIN (ANG)-1/2 AND SOLUBLE TRIGGERING RECEPTOR EXPRESSED ON MYELOID CELLS-1 (STREM-1) BIOMARKERS - WO/2025/059782"
+    authors: Ziqi Li, Yaming Cheng, <strong>Sheral Kumar</strong>, Carlos Fernandes, Harry Ruda
+    conference_short: Patent
+    conference: World Intellectual Property Organization (Application), 2025.
+    title_link: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025059782
+    patent: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025059782
+    image: ./assets/img/sepsis-patent.png
+
 
   - title: "Methods and devices for extracting motion vector data from compressed video data - US11729395B2"
     authors: <strong>Sheral Sweta Kumar</strong>, Amartya Mukherjee, Seel Nimeshkumar Patel, Rui Xiang Chai, Wentao Liu, Yuanhao Yu, Yang Wang, Jin Tang
     conference_short: Patent
-    conference: United States Patent and Trademark Office, 2023.
+    conference: United States Patent and Trademark Office (Granted), 2023.
     title_link: https://patents.google.com/patent/US11729395B2/en
     patent: https://patents.google.com/patent/US11729395B2/en
     image: ./assets/img/MV-patent.png

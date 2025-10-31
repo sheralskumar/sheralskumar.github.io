@@ -22,7 +22,7 @@
       </div>
     <div class="links">
       {% if link.patent %} 
-      <a href="{{ link.patent }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Patents</a>
+      <a href="{{ link.patent }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Patent Link</a>
       {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
