@@ -4,7 +4,7 @@ layout: homepage
 
 <!-- ## About Me -->
 
-I am a recent Master of Applied Science graduate from the University of Toronto, supervised by [Harry Ruda](https://www.ece.utoronto.ca/people/ruda-h/). My master's thesis focused on the development of a multimodal imaging system to accelerate biological research in domains like agriculture. In this work, I implemented real-time pipelines for 5D data ingestion, aggregation, and processing across 6 modalities, including both backend infrastructure and frontend user interfaces.
+I am a recent Master of Applied Science graduate from the University of Toronto, supervised by [Harry Ruda](https://www.ece.utoronto.ca/people/ruda-h/). My Master's thesis focused on the development of a multimodal imaging system to accelerate biological research in domains like agriculture. In this work, I implemented real-time pipelines for 5D data ingestion, aggregation, and processing across 6 modalities, including both backend infrastructure and frontend user interfaces.
 
 Broadly, I am interested in developing cutting-edge infrastructure and tools, leveraging my background at the intersection of hardware and software. 
 
